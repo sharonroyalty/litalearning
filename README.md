@@ -54,6 +54,13 @@ VALUES (6,'Joy Felix', ' 245 Oak St.john', 555-2678, 'joyfelix@gail.com');
 select * FROM Members
 ```
 ## Data Visualization
+![LS1](https://github.com/user-attachments/assets/d089b0c6-2613-4f43-a4fa-1bdeb310af08)
+![LS2](https://github.com/user-attachments/assets/46c85401-cbfb-4b93-a16c-342aa57639d4)
+![LS3](https://github.com/user-attachments/assets/7368f340-76ca-43d5-b042-e26f6dd614ed)
+![LS4](https://github.com/user-attachments/assets/4608aafe-cbf3-486d-b261-21862165e220)
+![LS5](https://github.com/user-attachments/assets/7070d4ce-b865-4a22-93af-177c8b670e3c)
+![LS6](https://github.com/user-attachments/assets/328eb166-d7d2-44db-b25c-e70340cc7139)
+
 
   ## Installation and Setup
   ---
