@@ -3,14 +3,22 @@
 ## Poject Title: Library Management System
 
 [Overview](#overview)
+
 [Features](#features)
+
 [Technology Stack](#technologystack)
+
 [Data Cleaning](#datacleaning)
-Data Preparation
-Explanatory Data Analysis
-Data Anaylsis
-Data Visualization
-Installation and Setup
+
+[Data Preparation](#datapreparation)
+
+[Explanatory Data Analysis](#explanatorydataanalysis)
+
+[Data Anaylsis](#dataanaylysis)
+
+[Data Visualization](#datavisualization)
+
+[Installation and Setup](#installationandsetup)
 
 ## Overview
 ---
