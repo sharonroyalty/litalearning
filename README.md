@@ -5,7 +5,7 @@
 [Overview](#overview)
 [Features](#features)
 [Technology Stack](#technologystack)
-Data Cleaning
+[Data Cleaning](#datacleaning)
 Data Preparation
 Explanatory Data Analysis
 Data Anaylsis
