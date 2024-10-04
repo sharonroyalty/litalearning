@@ -53,6 +53,7 @@ INSERT INTO Members (MEMBERID,NAME,ADDRESS,PHONENUMBER,EMAIL)
 VALUES (6,'Joy Felix', ' 245 Oak St.john', 555-2678, 'joyfelix@gail.com');
 select * FROM Members
 ```
+## Data Visualization
 
   ## Installation and Setup
   ---
