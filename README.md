@@ -2,6 +2,16 @@
 
 ## Poject Title: Library Management System
 
+[Overview](#overview)
+[Features](#features)
+[Technology Stack](#technologystack)
+Data Cleaning
+Data Preparation
+Explanatory Data Analysis
+Data Anaylsis
+Data Visualization
+Installation and Setup
+
 ## Overview
 ---
 This Library Management System is a SQL-based project designed to manage the operations of a library. It supports the borrowing and returning of books, managing users, and tracking the availability of books.
