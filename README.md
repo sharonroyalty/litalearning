@@ -22,8 +22,23 @@
 
 ## Overview
 ---
-This Library Management System is a SQL-based project designed to manage the operations of a library. It supports the borrowing and returning of books, managing users, and tracking the availability of books.
+This Library Management System is a SQL-based project designed to manage the operations of a library. It supports the borrowing and returning of books, managing users, and tracking the availability of books. It aims at optimize the system’s performance through data-driven insights, helping the library function more effectively and meet users' needs. leveraging on the data to improve the system’s efficiency, user experience, and resource management.
 
+## Objective
+ The Objective behind a Library Management System project is to modernize and streamline library operations, enhance user satisfaction, and optimize the management of resources. These improvements not only benefit the library staff but also make the library more efficient and accessible for users.
+
+## Data Source
+The data used for this project was synthetically generated to simulate a small library's operations, including book borrowed, returns, and user interactions.
+
+## Insights
+These insights show the value of data analysis in helping a library understand its users, optimize resource management, and improve overall operational efficiency. 
+- Most Popular Genres
+  Insight: The analysis shows that fiction account for 30% of total checkouts, making them the most popular genre among users.
+    Actionable Insight: The library can increase its inventory of popular genres to meet user demand.
+  
+- Books with High Overdue Rates
+ Insight: Non-fiction books, particularly in the reference and academic categories, have the highest overdue rates, with 100% of them being returned after the due date.
+    Actionable Insight: Implement stricter return policies or send automated reminders for these categories to reduce overdue books.
 ## Features
 ---
 - Add new books and users
