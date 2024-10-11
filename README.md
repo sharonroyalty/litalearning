@@ -4,6 +4,12 @@
 
 [Overview](#overview)
 
+[Objective](#objective)
+
+[Data Source](#dataSource)
+
+[Insights](#insights)
+
 [Features](#features)
 
 [Technology Stack](#technologystack)
@@ -37,10 +43,6 @@ These insights show the value of data analysis in helping a library understand i
     Actionable Insight: The library can increase its inventory of popular genres to meet user demand.
   ![Popular Genre](https://github.com/user-attachments/assets/b24b5586-5e69-4114-856a-c4b30e33edf4)
 
-  
-- Books with High Overdue Rates
- Insight: Non-fiction books, particularly in the reference and academic categories, have the highest overdue rates, with 100% of them being returned after the due date.
-    Actionable Insight: Implement stricter return policies or send automated reminders for these categories to reduce overdue books.
 ## Features
 ---
 - Add new books and users
